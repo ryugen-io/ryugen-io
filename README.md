@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm elpeppo 👋
 
-<!--
-**ryugen-io/ryugen-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things with AI.
 
-Here are some ideas to get you started:
+Kiro enthusiast — on the mcp hypetrain.
+opus best buddy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🤖 Maker, tinkerer, and always experimenting with new tech.
+- 🚂 Riding the Kiro/mcp wave, always excited about what's next.
+- 🛠️ Check out my projects below!
+
+Feel free to connect or check out my repos!
