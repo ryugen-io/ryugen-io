@@ -1,4 +1,4 @@
-# Hi, I'm elpeppo 👋
+# Hi, I'm ryu.
 
 I like building things with AI.
 
@@ -7,8 +7,8 @@ opus best buddy.
 
 ---
 
-- 🤖 Maker, tinkerer, and always experimenting with new tech.
-- 🚂 Riding the Kiro/mcp wave, always excited about what's next.
-- 🛠️ Check out my projects below!
+ Maker, tinkerer, and always experimenting with new tech.
+ Riding the Kiro/mcp wave, always excited about what's next.
+ Check out my projects below!
 
 Feel free to connect or check out my repos!
