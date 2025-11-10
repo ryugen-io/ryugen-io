@@ -9,7 +9,9 @@ Building things with AI and automation.
 [![Rust](https://img.shields.io/badge/Rust-2024-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 On the **MCP hypetrain**
+
 Using [**Serena MCP**](https://github.com/cristianvogel/serena) - hands down the best MCP server
+
 Building with **Claude Opus** - best AI buddy
 
 ## Connect
