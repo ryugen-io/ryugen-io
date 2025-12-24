@@ -1,4 +1,6 @@
-# Hi, I'm ryu
+## Hi, I'm ryu
+# arch btw
+# cachyos <3
 
 Building things with AI and automation.
 
