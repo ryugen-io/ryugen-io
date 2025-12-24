@@ -21,4 +21,4 @@ Feel free to check out my repos or reach out!
 
 ## I like:
 
-Rust, Mojo, Python, Go, C/C++, TS, Elixir/Phoenix, just, fish, bash, clippy, fmt, linting
+Rust, Mojo, Python, Go, C/C++, TS, Elixir/Phoenix, just, fish, bash, clippy, fmt, linting, benching, fuzz testing
